@@ -1,2 +1,3 @@
-pgvector. (2024). Vector similarity search for PostgreSQL.
-GitHub. https://github.com/pgvector/pgvector
+pgvector. Vector similarity search for PostgreSQL.
+https://github.com/pgvector/pgvector
+Licensed under the PostgreSQL License.
